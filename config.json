@@ -1,0 +1,9 @@
+{
+	"telegram_token": "",
+	"database_path": "./tmp/db",
+	"today_template": "🦄 Сейчас %_WEEK_% неделя,\nрасписание на сегодня: \n\n%_SUBJECTS_%\n\n",
+	"nextday_template": "🦄 Завтра %_WEEK_% неделя,\nрасписание: \n\n%_SUBJECTS_%\n\n",
+	"today_weekday_template": "🦄 Сейчас %_WEEK_% неделя, пар нет.\n\n",
+	"nextday_weekday_template": "🦄 Завтра %_WEEK_% неделя, пар нет.\n\n",
+	"oracle_template": "🃏 Перетасованный список: \n%_LIST_%\n\n"
+}
