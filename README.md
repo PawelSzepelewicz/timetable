@@ -1,4 +1,4 @@
-# Timetable
+# timetable
 
 Telegram-бот для расписания.
 
