@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 	"github.com/tucnak/telebot"
-	"github.com/alxshelepenok/bittrexmarketschecker/store"
+	"github.com/alxshelepenok/alxshelepenok/store"
 
 )
 
